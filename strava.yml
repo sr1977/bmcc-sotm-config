@@ -1,1 +1,5 @@
 url: http://www.strava.com
+client_secret: 023b25f9215573bc0b51372f126d8f910cd05deb
+client_id: 29810
+refresh_token: 75d3990d0dcf34c8feabcf88c4d76c76e40b4710
+grant_type: refresh_token
