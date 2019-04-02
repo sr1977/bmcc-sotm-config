@@ -9,3 +9,9 @@ strava:
   grantType: refresh_token
 
 test: wibble
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: metrics,beans
