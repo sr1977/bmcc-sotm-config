@@ -3,7 +3,7 @@ server:
 
 strava:
   url: http://www.strava.com
-  clientSecret: 023b25f9215573bc0b51372f126d8f910cd05deb
+  clientSecret: XXX023b25f9215573bc0b51372f126d8f910cd05deb
   clientId: 29810
   refreshToken: 75d3990d0dcf34c8feabcf88c4d76c76e40b4710
   grantType: refresh_token
